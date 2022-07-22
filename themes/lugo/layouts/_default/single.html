@@ -1,0 +1,7 @@
+{{ partial "header.html" . -}}
+<header><h1>{{ .Title }}</h1></header>
+<p>This is a paragraph on a single.html page!</p>
+
+<article>
+{{ .Content -}}
+{{ partial "footer.html" . }}
