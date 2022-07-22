@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>t6z.me/categories/</loc>
+    <loc>https://t6z.me/bar/</loc>
+    <lastmod>2022-07-22T11:20:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>t6z.me/tags/</loc>
+    <loc>https://t6z.me/foo/</loc>
+    <lastmod>2022-07-22T11:20:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>t6z.me/</loc>
+    <loc>https://t6z.me/</loc>
+    <lastmod>2022-07-22T11:19:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t6z.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://t6z.me/tags/</loc>
   </url>
   
 </urlset>

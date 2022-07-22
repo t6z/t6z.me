@@ -1,13 +1,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Thomas&#39; Site</title>
-	<link>t6z.me/</link>
+	<link>https://t6z.me/</link>
 	<description>Recent content on Thomas&#39; Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
+	<lastBuildDate>Fri, 22 Jul 2022 11:19:01 -0500</lastBuildDate>
     
-        <atom:link href="t6z.me/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://t6z.me/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Bar</title>
+		<link>https://t6z.me/bar/</link>
+		<pubDate>Fri, 22 Jul 2022 11:20:18 -0500</pubDate>
+		
+		<guid>https://t6z.me/bar/</guid>
+		<description>&lt;p&gt;bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar
+bar bar bar bar bar bar bar bar&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Foo</title>
+		<link>https://t6z.me/foo/</link>
+		<pubDate>Fri, 22 Jul 2022 11:20:12 -0500</pubDate>
+		
+		<guid>https://t6z.me/foo/</guid>
+		<description>&lt;p&gt;foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo
+foo foo foo foo foo foo&lt;/p&gt;
+</description>
+	</item>
 	
 	</channel>
 </rss>
