@@ -1,0 +1,4 @@
+baseURL = "t6z.me"
+languageCode = "en-us"
+title = "Thomas' Site"
+theme = 'lugo'
