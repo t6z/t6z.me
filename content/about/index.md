@@ -6,3 +6,5 @@ menu: main
 ---
 
 All about me!
+
+[resume](https://t6z.me/resume.pdf)
