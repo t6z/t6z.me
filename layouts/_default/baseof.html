@@ -17,7 +17,7 @@
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
-<header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
+	<header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
 <article>
 {{ block "main" . }}
 {{ .Content }}

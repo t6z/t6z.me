@@ -74,7 +74,7 @@ Cons
 
 ## Grilla Grills "Chimp"
 
-This is the grill I went with. Maybe it was the primate-themed logo and naming that got me, or maybe it was some of the features this grill had. One thing is certain, this optoin hurt the wallet a bit more coming in as the most expensive option ($600).
+This is the grill I went with. Maybe it was the primate-themed logo and naming that got me, or maybe it was some of the features this grill had. One thing is certain, this option hurt the wallet a bit more coming in as the most expensive option ($600).
 
 Overall, the specs checked out. This has a large hopper size, good cooking space, not too large size when the legs are extended or folded, and good connectivity. The weight is the heaviest of all the options, coming in at 90 lbs, but this didn't bother me for two reasons:
 
