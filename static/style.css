@@ -1,6 +1,5 @@
 body {
 	font-family: serif;
-	margin: 5px;
 	color: #ffffff;
 	background: #131313;
 }
@@ -28,15 +27,56 @@ footer {
 	flex-shrink: 0;
 }
 
-nav {
-	display: inline
+footer ul {
+	padding-left:0;
 }
+
+nav {
+	text-align: center ;
+	display: inline;
+}
+nav ul {
+	padding-left:0;
+}
+
+table, td {
+	text-align: center;
+	border: 1px solid ;
+}
+
+td {
+	padding: 0.5em;
+}
+
+th {
+	padding: 0.5em;
+	border: 1px solid;
+	border-bottom: 3px double;
+}
+
+table {
+	margin: auto;
+	width: 50%;
+	border-collapse: collapse;
+}
+
+.menuname {
+	background: #2d876c;
+	color: #FFFFFF;
+	border-radius: 10%;
+	padding:0.4em;
+}
+.menuname a:hover, a:visited, a:link, a:active {
+	text-decoration: none;
+}
+
 .center {
 	text-align: center;
 	border-radius: 10px;
 }
 
 .footer-socials ul li {
+	margin:0;
 	display: inline;
 }
 
