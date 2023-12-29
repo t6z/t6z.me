@@ -14,19 +14,19 @@ I had a difficult time finding pictures and information online of how these smal
 
 I bought a Pittsburgh Motoryclce branded wheel chock from Harbor Freight. The wheels on my bike were too wide / large to fit so I drilled additional holes to adjust the rear pin to be further back.
 
-{{< figure src="/images/motorcycle-trailering/wheel-chock-mod.jpg" alt="Modified wheel chock">}} 
+{{< figure src="/images/motorcycle-trailering/wheel-chock-mod.webp" alt="Modified wheel chock">}} 
 
 Using two ratchet straps it was easy to secure the wheel chock using the D-rings inside the trailer. I criss-crossed the ratchet straps to keep the chock secured in the center.
 
-{{< figure src="/images/motorcycle-trailering/secure-wheel-chock.jpg" alt="Secured wheel chock">}} 
+{{< figure src="/images/motorcycle-trailering/secure-wheel-chock.webp" alt="Secured wheel chock">}} 
 
 ## Tie-down Points
 
 I bought some soft loop tie-down straps and tied down the motorcycle in 4 locations -- 2 at the base of the front forks, 2 to the frame under the seat. There are multiple D-rings at floor level along sides of the trailer to use.
 
-{{< figure src="/images/motorcycle-trailering/front-tiedown.jpg" alt="Front tie-down" caption="Front tie-down point" >}} 
+{{< figure src="/images/motorcycle-trailering/front-tiedown.webp" alt="Front tie-down" caption="Front tie-down point" >}} 
 
-{{< figure src="/images/motorcycle-trailering/frame-tiedown.jpg" alt="Front tie-down" caption="Frame tie-down point" >}} 
+{{< figure src="/images/motorcycle-trailering/frame-tiedown.webp" alt="Front tie-down" caption="Frame tie-down point" >}} 
 
 ## Straps settling!
 
@@ -36,6 +36,6 @@ The strap loops tied to the frame settled and loosed up after driving for a bit.
 
 This little U-Haul worked good for trailering my bike!
 
-{{< figure src="/images/motorcycle-trailering/motorcycle-in-trailer.jpg" alt="Motorcycle in trailer">}} 
+{{< figure src="/images/motorcycle-trailering/motorcycle-in-trailer.webp" alt="Motorcycle in trailer">}} 
 
 

@@ -59,7 +59,7 @@ Cons
 
 This grill is mentioned in all the "portable pellet grill" comparisions I found, and often is the top option listed. 
 
-{{< figure src="/images/pellet-grills/traeger-ranger.jpg" >}}
+{{< figure src="/images/pellet-grills/traeger-ranger.webp" alt="traeger ranger pellet grill"  >}}
 
 I checked this grill out in person, and I don't feel like there are really any pros __or__ cons. For the price ($530), I felt like some of the other options had better construction and may have better customer service / maintainability than this big-name-brand. I also instinctively avoid big-brands because of those reasons, so that may be apart of it. Maybe the Tailgater is great, it just didn't speak to me.
 

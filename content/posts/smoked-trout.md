@@ -12,7 +12,7 @@ How I smoke Rainbow Trout on my pellet grill. I keep it pretty simple, either se
 - 🍳 Cook time: 1 hr
 - 🍽️ Servings: A trout per person (depends on how many you caught!)
 
-{{< figure src="/images/smoked-rainbow-trout/trout-on-grill.jpg" alt="trout on grill" >}}
+{{< figure src="/images/smoked-rainbow-trout/trout-on-grill.webp" alt="trout on grill" >}}
 
 ## Ingredients
 
@@ -26,11 +26,11 @@ How I smoke Rainbow Trout on my pellet grill. I keep it pretty simple, either se
 
 I can't help you here.
 
-{{< figure src="/images/smoked-rainbow-trout/caught-trout.jpg" alt="caught trout" >}}
+{{< figure src="/images/smoked-rainbow-trout/caught-trout.webp" alt="caught trout" >}}
 
 ### Clean and Prep Trout
 
-{{< figure src="/images/smoked-rainbow-trout/trout-diagram.jpg" alt="trout diagram" >}}
+{{< figure src="/images/smoked-rainbow-trout/trout-diagram.webp" alt="trout diagram" >}}
 
 Using a fillet knife, I:
 
