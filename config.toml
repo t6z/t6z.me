@@ -2,14 +2,16 @@ baseURL = "https://t6z.me/"
 languageCode = "en-us"
 title = "Thomas' Website"
 theme = "lugo"
-  relatedtext = "Related"
-  favicon = "/favicon.ico"
 
-  #list items
-  datesinlist = false 
-  authorsinlist = true
-
-  #footer items
-  nextprev = false 
-  taglist = false 
-  showrss = false 
+[params]
+ relatedtext = "Related"
+ favicon = "/images/favicon.ico"
+ 
+ #list items
+ datesinlist = true 
+ authorsinlist = true
+ 
+ #footer items
+ nextprev = true
+ taglist = true
+ showrss = true
