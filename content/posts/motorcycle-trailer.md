@@ -1,7 +1,7 @@
 ---
 title: "Using a U-Haul 5x8 for trailering my motorcycle"
 date: 2023-08-23T11:32:33-06:00
-draft: False
+draft: false
 tags:
     - motorcycle
 ---
